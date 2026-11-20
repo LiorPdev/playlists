@@ -59,7 +59,7 @@ const PLAYLISTS = [
   {
     name: "Words",
     url: "https://open.spotify.com/playlist/4tf2K4dTwv7fHRttgGhjgq",
-    image: "Media/playlists/words.webp",
+    image: "Media/playlists/Words.webp",
     description: "המילים עושות את השיר",
   },
 ];
