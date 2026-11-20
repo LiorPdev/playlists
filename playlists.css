@@ -190,3 +190,9 @@ header p {
 .card:hover .btn {
   background: rgba(30, 215, 96, 0.98);
 }
+
+@media (min-width: 768px) {
+  header h1 {
+    margin-bottom: 20px;
+  }
+}
